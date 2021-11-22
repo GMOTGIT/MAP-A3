@@ -1,0 +1,20 @@
+<resources>
+    <string name="question1">Toronto é a capital de Ontario?</string>
+    <string name="question2">Montreal é a capital de Quebec?</string>
+    <string name="question3">Reykjavik é a capital da Islandia?</string>
+    <string name="question4">Brasilia é a capital do Brasil?</string>
+    <string name="question5">Seoul é a capital da Coreia?</string>
+    <string name="trueButtom">Verdadeiro</string>
+    <string name="falseButtom">Falso</string>
+    <string name="correct">Certo!</string>
+    <string name="wrong">Errado!</string>
+    <string name="get_the_average">Ver a Média</string>
+    <string name="select_number_of_questions">Escolher Número de Questões</string>
+    <string name="reset_stats">Resetar Dados</string>
+    <string name="your_average">Sua Media: </string>
+    <string name="Save">Salvar</string>
+    <string name="good_luck">Boa Sorte!</string>
+    <string name="result">Resultado: (Acertos/Total)</string>
+
+
+</resources>
